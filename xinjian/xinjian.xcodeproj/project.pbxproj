@@ -13,6 +13,7 @@
 		BE9FA37D1E93409E00B43605 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE9FA37B1E93409E00B43605 /* Main.storyboard */; };
 		BE9FA37F1E93409E00B43605 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE9FA37E1E93409E00B43605 /* Assets.xcassets */; };
 		BE9FA3821E93409E00B43605 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE9FA3801E93409E00B43605 /* LaunchScreen.storyboard */; };
+		BE9FA38B1E93411F00B43605 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BE9FA38A1E93411F00B43605 /* TableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		BE9FA37E1E93409E00B43605 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE9FA3811E93409E00B43605 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE9FA3831E93409E00B43605 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE9FA3891E93411F00B43605 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		BE9FA38A1E93411F00B43605 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				BE9FA3761E93409E00B43605 /* AppDelegate.m */,
 				BE9FA3781E93409E00B43605 /* ViewController.h */,
 				BE9FA3791E93409E00B43605 /* ViewController.m */,
+				BE9FA3891E93411F00B43605 /* TableViewController.h */,
+				BE9FA38A1E93411F00B43605 /* TableViewController.m */,
 				BE9FA37B1E93409E00B43605 /* Main.storyboard */,
 				BE9FA37E1E93409E00B43605 /* Assets.xcassets */,
 				BE9FA3801E93409E00B43605 /* LaunchScreen.storyboard */,
@@ -153,6 +158,7 @@
 				BE9FA37A1E93409E00B43605 /* ViewController.m in Sources */,
 				BE9FA3771E93409E00B43605 /* AppDelegate.m in Sources */,
 				BE9FA3741E93409E00B43605 /* main.m in Sources */,
+				BE9FA38B1E93411F00B43605 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
